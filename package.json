@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd-ui-app",
+  "version": "1.0.0",
+  "description": "Test app for studying ci/cd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bombinmybag/ci-cd-ui-app.git"
+  },
+  "author": "i.sungurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bombinmybag/ci-cd-ui-app/issues"
+  },
+  "homepage": "https://github.com/bombinmybag/ci-cd-ui-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
